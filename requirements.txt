@@ -1,2 +1,1 @@
-junit-xml==1.9
-jsonpickle==0.9.4
+ansible==2.9.9
